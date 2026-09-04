@@ -41,15 +41,6 @@ Java Core, многопоточность, REST API, работа с сетью,
 
 ---
 
-## 📊 Моя статистика на GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fastby&show_icons=true&theme=dark&locale=ru" alt="Статистика GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fastby&layout=compact&theme=dark&locale=ru" alt="Самые используемые языки" width="40%" />
-</p>
-
----
-
 ## 🌐 Контакты и соцсети
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lyakhov_alexandr)
